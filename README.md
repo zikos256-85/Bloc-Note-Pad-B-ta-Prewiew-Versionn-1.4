@@ -72,5 +72,7 @@ pour eviter c ette erreur est rendre vos photos plus reconaissable par la vision
 de ne pas selectioner des image. 
 
 
+Ce problemme conserne la fonctionalité standard est la fonctionalitée developer.
 
+nous somme actuellement entrain de travaillez sur une resolution est nous fourniront une mise a jour  pour tous ce bug.
 
